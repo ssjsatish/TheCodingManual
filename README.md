@@ -1,1 +1,1 @@
-# thecodingmanual
+# TheCodingManual
